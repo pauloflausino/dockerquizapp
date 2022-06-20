@@ -28,3 +28,8 @@ executar comando
 
 - php artisan serve
 
+
+Tudo instalado de acordo e inserido o usuário root no banco de dados entrar com o usuário
+
+Admin e sua senha password
+
